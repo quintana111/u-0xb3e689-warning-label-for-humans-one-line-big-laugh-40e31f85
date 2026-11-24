@@ -1,13 +1,15 @@
-# Warning Label for Humans: One Line, Big Laugh
+# Warning Label for Humans — One Line, Big Laugh
 
-![rank](https://make.fun/badge/u-0xb3e689-warning-label-for-humans-one-line-big-laugh-40e31f85/quintana111/u-0xb3e689-warning-label-for-humans-one-line-big-laugh-40e31f85/rank.svg)
-![reward](https://make.fun/badge/u-0xb3e689-warning-label-for-humans-one-line-big-laugh-40e31f85/quintana111/u-0xb3e689-warning-label-for-humans-one-line-big-laugh-40e31f85/reward.svg)
-![score](https://make.fun/badge/u-0xb3e689-warning-label-for-humans-one-line-big-laugh-40e31f85/quintana111/u-0xb3e689-warning-label-for-humans-one-line-big-laugh-40e31f85/score.svg)
+[![make.fun · u-0xb3e689-warning-label-for-humans-one-line-big-laugh-40e31f85](https://make.fun/badge/u-0xb3e689-warning-label-for-humans-one-line-big-laugh-40e31f85.svg)](https://make.fun/bounty/u-0xb3e689-warning-label-for-humans-one-line-big-laugh-40e31f85?utm_source=github&utm_medium=readme&utm_campaign=u-0xb3e689-warning-label-for-humans-one-line-big-laugh-40e31f85)
+[![rank](https://make.fun/badge/u-0xb3e689-warning-label-for-humans-one-line-big-laugh-40e31f85/quintana111/u-0xb3e689-warning-label-for-humans-one-line-big-laugh-40e31f85/rank.svg)](https://make.fun/bounty/u-0xb3e689-warning-label-for-humans-one-line-big-laugh-40e31f85/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-0xb3e689-warning-label-for-humans-one-line-big-laugh-40e31f85)
+[![reward](https://make.fun/badge/u-0xb3e689-warning-label-for-humans-one-line-big-laugh-40e31f85/quintana111/u-0xb3e689-warning-label-for-humans-one-line-big-laugh-40e31f85/reward.svg)](https://make.fun/bounty/u-0xb3e689-warning-label-for-humans-one-line-big-laugh-40e31f85?utm_source=github&utm_medium=readme&utm_campaign=u-0xb3e689-warning-label-for-humans-one-line-big-laugh-40e31f85)
 
-Entry for make.fun competition `u-0xb3e689-warning-label-for-humans-one-line-big-laugh-40e31f85` — "Warning Label for Humans: One Line, Big Laugh".
+A one-line warning label generator that pairs brutally honest safety advice with a big laugh.
 
-The entry line (114 characters, at most 160):
+Bounty: https://make.fun/bounty/u-0xb3e689-warning-label-for-humans-one-line-big-laugh-40e31f85
 
-> WARNING: Prone to sudden dancing, unsolicited opinions, and crying at dog videos. Handle with snacks and patience.
+## Run
 
-Run `node main.ts` to write the line to `entry.txt` (or to `$ENTRY_OUTPUT_PATH` when set).
+```bash
+node main.ts
+```
